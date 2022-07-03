@@ -1,2 +1,1 @@
-# java16-todo-appnew
-demo
+version: todo-app-2.0
